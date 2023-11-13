@@ -1,3 +1,5 @@
+# Retorna uma lista de números aleatórios e primos
+
 from random import randint
 from click import clear
 
